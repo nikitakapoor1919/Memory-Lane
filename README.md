@@ -23,13 +23,16 @@ $ cd client
 # Install dependencies
 $ npm install
 
+# Run server
+$ npm start
+
 # Go into the server folder
 $ cd server
 
 # Install dependencies
 $ npm install
 
-# Run website go to client folder
+# Run client
 $ npm start
 ```
 This should launch the website on `localhost:3000`.
